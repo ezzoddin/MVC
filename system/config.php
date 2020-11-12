@@ -1,6 +1,6 @@
 <?php
 
-$base_url = "http://localhost/mvc/";
+$base_url = "http://localhost:8080/mvc/";
 $base_dir = "/mvc/";
 
 $tmp = explode('?', $_SERVER['REQUEST_URI']);
